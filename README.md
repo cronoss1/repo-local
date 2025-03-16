@@ -11,7 +11,7 @@ Repositorio para armazenar resumos sobre Git e GitHub do curso Versionamento de 
 
 | Aulas | Resumos |
 |-------|----------|
-|Aula 01 | [Resumo]()|
+|Aula 01 | [Resumo](https://github.com/cronoss1/repo-local/blob/main/resumos/aula-01.md)|
 |Aula 02 | [Resumo]()|
 
 ## 🔍 Referências
